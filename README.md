@@ -32,7 +32,7 @@
 
 ## ⭐Deployed App
 <a href="https://plant-disease-detection-ai.herokuapp.com/" target = "_blank">Plant-Disease-Detection-AI</a><br>
-
+ ### Needed Compulsorily
 
 ## ⭐Snippet of Web App :
 #### Main page
